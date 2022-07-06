@@ -10,6 +10,7 @@ def imprimir_nombre(nombre, apellido):
     print(nombre_completo)
 
 
+
 def cantidad_productos():
     productos_comprados = int(input("¿Cuántos productos compró?: "))
     return productos_comprados
