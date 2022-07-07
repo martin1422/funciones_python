@@ -4,6 +4,7 @@
 # Autor: Inove Coding School
 # Version: 2.2
 
+
 # Ejemplos de llamada a funciones
 def imprimir_nombre(nombre, apellido):
     nombre_completo = nombre + ' ' + apellido
